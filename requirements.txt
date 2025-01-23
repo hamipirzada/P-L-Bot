@@ -1,0 +1,8 @@
+streamlit==1.29.0
+pypdf2
+pinecone-client
+sentence-transformers
+groq
+python-dotenv
+langchain
+tiktoken
